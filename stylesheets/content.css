@@ -1,0 +1,153 @@
+body{
+  width: 100%;
+  background: #BC1F1F;
+  font-family: "Roboto", sans-serif;
+}
+
+.title1{
+  position: absolute;
+  font-size: 135px;
+  margin-left: 430px;
+  margin-top: 80px;
+  color: #ffffff;
+  font-family: 'Roboto'
+}
+.title2{
+  position: absolute;
+  margin-left: 950px;
+  font-size: 135px;
+  margin-top: 55px;
+  color: #ffffff;
+  line-height: 184px;
+}
+.informaation{
+  position: absolute;
+  margin-top: 620px;
+  margin-left: 200px;
+  rotate: 360deg;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);}
+}
+.informaation:hover
+{
+  animation-play-state: paused;
+}
+.text1{
+  position: absolute;
+  margin-top: 725px;
+  margin-left: 275px;
+  font-size: 24px;
+  z-index: 1;
+}
+.bigcircle2{
+  position: absolute;
+  margin-top:320px;
+  margin-left: 490px;
+  rotate: -360deg;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(-360deg);}
+}
+.bigcircle2:hover
+{
+  animation-play-state: paused;
+}
+.text2{
+  position: absolute;
+  margin-top: 420px;
+  margin-left: 545px;
+  font-size: 24px;
+}
+.bigcircle3{
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 500px;
+  rotate: 360deg;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);}
+}
+.bigcircle3:hover
+{
+  animation-play-state: paused;
+}
+.text3{
+  position: absolute;
+  margin-top: 420px;
+  margin-left: 556px;
+  font-size: 24px;
+}
+.bigcircle4{
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 1100px;
+  rotate: 360deg;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);}
+}
+.bigcircle4:hover
+{
+  animation-play-state: paused;
+}
+.text4{
+  position: absolute;
+  margin-top: 420px;
+  margin-left: 1152px;
+  font-size: 24px;
+}
+.bigcircle5{
+  position: absolute;
+  margin-top: 620px;
+  margin-left: 1400px;
+  rotate: 360deg;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);}
+}
+.bigcircle5:hover
+{
+  animation-play-state: paused;
+}
+.text5{
+  position: absolute;
+  margin-top: 713px;
+  margin-left: 1463px;
+  font-size: 24px;
+}
+.smalcircle1{
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 230px;
+}
+.smalcircle2{
+  position: absolute;
+  margin-top: 700px;
+  margin-left: 500px;
+}
+.smalcircle3{
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 1500px;
+}
+.middlecircle1{
+  position: absolute;
+  margin-top: 650px;
+  margin-left: 1190px;
+}
+.middlecircle2{
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 800px;
+}
+.middlecircle3{
+  position: absolute;
+  margin-top: 650px;
+  margin-left: 800px;
+}
