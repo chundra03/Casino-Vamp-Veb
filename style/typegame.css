@@ -1,0 +1,147 @@
+body{
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+}
+.home{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: fixed;
+}
+.nav{
+  position: absolute;
+  text-decoration: none;
+}
+.p1{
+  position: fixed;
+  font-size: 24px;
+  color: #000000;
+  text-decoration: none;
+  margin-left: 200px;
+  margin-top: 25px;
+}
+.p1:hover{
+  text-decoration: line-through;
+}
+.p2{
+  position: fixed;
+  font-size: 24px;
+  color: #000000;
+  text-decoration: none;
+  margin-left: 350px;
+  margin-top: 25px;
+}
+.p2:hover{
+  text-decoration: line-through;
+}
+.p3{
+  position: fixed;
+  font-size: 24px;
+  color: #000000;
+  text-decoration: none;
+  margin-left: 500px;
+  margin-top: 25px;
+}
+.p3:hover{
+  text-decoration: line-through;
+}
+.p4{
+  position: fixed;
+  font-size: 24px;
+  color: #000000;
+  text-decoration: none;
+  margin-left: 640px;
+  margin-top: 25px;
+}
+.p4:hover{
+  text-decoration: line-through;
+}
+.pocker{
+  position: absolute;
+  margin-left: 824px;
+}
+.card{
+  width: 150%;
+}
+.rulet{
+  position: absolute;
+  margin-left: 824px;
+  margin-top: 1080px;
+}
+.rule1{
+  width: 150%;
+}
+.fortune{
+  position: absolute;
+  margin-left: 824px;
+  margin-top: 2160px;
+}
+.fort{
+  width: 150%;
+}
+.casino{
+  position: absolute;
+  margin-left: 824px;
+  margin-top: 3240px;
+}
+.play{
+  width: 150%;
+}
+.games{
+  position: absolute;
+  margin-left: 824px;
+  margin-top: 4320px;
+}
+.auto{
+  width: 150%;
+}
+.paragraph1{
+  position: absolute;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  line-height: 134%;
+  font-style: italic;
+  margin-top: 420px;
+  margin-left: 200px;
+}
+.paragraph2{
+  position: absolute;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  line-height: 134%;
+  font-style: italic;
+  margin-top: 1500px;
+  margin-left: 200px
+}
+.paragraph3{
+  position: absolute;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  line-height: 134%;
+  font-style: italic;
+  margin-left: 200px;
+  margin-top: 2550px;
+}
+.paragraph4{
+  position: absolute;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  line-height: 134%;
+  font-style: italic;
+  margin-left: 200px;
+margin-top: 3600px;
+}
+.paragraph5{
+  position: absolute;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  line-height: 134%;
+  font-style: italic;
+  margin-top: 4800px;
+  margin-left: 200px;
+}

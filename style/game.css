@@ -1,0 +1,34 @@
+body{
+  background: #000000;
+}
+.mini{
+  width: 102%;
+  margin-top: -10px;
+  margin-left: -10px;
+}
+.game1{
+  position: absolute;
+  color: #ffffff;
+  font-size: 40px;
+  margin-left: 850px;
+  margin-top: 900px;
+  font-family: 'Roboto';
+  z-index: 3;
+  text-decoration: none;
+
+}
+.game{
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+.menu{
+  position: absolute;
+  z-index: 2;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: #000000;
+}
+.menu:hover{
+  text-decoration: line-through;
+}

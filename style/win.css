@@ -1,0 +1,67 @@
+.home{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.search{
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 650px;
+}
+.cub{
+  position: absolute;
+  margin-top: 800px;
+  margin-left: 100px;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);}
+}
+.cub:hover
+{
+  animation-play-state: paused;}
+.cub1{
+  position: absolute;
+  margin-top: 600px;
+  margin-left: 30px;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);}
+}
+.cub1:hover
+{
+  animation-play-state: paused;
+}
+.cub2{
+  position: absolute;
+  margin-left: 1600px;
+  margin-top: 200px;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);
+  }
+}
+.cub2:hover
+{
+  animation-play-state: paused;
+}
+.cub3{
+  position: absolute;
+  margin-left: 1600px;
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  100% {transform: rotate(360deg);
+  }
+}
+.cub3:hover
+{
+  animation-play-state: paused;
+}
+.icon{
+  position: absolute;
+  margin-top: 515px;
+  margin-left: 1140px;
+}

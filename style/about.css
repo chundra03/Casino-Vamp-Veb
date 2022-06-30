@@ -1,0 +1,100 @@
+body{
+  width: 100%;
+  background: #000000;
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+}
+.aboutcasino{
+  position: fixed;
+  color: #ffffff;
+  font-size: 24px;
+  margin-left: 200px;
+  margin-top: 25px;
+  text-decoration: none;
+}
+.aboutcasino:hover{
+  text-decoration: line-through;
+}
+.mini-game{
+  position: fixed;
+  color: #ffffff;
+  font-size: 24px;
+  margin-top: 25px;
+  margin-left: 350px;
+  text-decoration: none;
+}
+.mini-game:hover{
+  text-decoration: line-through;
+}
+.description{
+  position: absolute;
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 450px;
+  margin-left: 600px;
+  font-family: "Times New Roman";
+  font-style: italic;
+  line-height: 134%;
+}
+.header_link{
+  position: fixed;
+  margin-left: 20px;
+  margin-top: 20px;
+  z-index: 1;
+}
+.text3{
+  position: absolute;
+  color: #ffffff;
+  font-family: "Times New Roman";
+  font-style: italic;
+  line-height: 134%;
+  font-size: 20px;
+  margin-left: 270px;
+  margin-top: 1100px;
+}
+.picture1{
+  position: absolute;
+  margin-left: 820px;
+  margin-top: 554px;
+}
+.building{
+  width: 145%;
+}
+.circle1{
+  margin-top: -10px;
+}
+.circle2{
+  margin-left: 1255px;
+  position: absolute;
+}
+.text5{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #000000;
+  z-index: 3;
+  margin-top: 25px;
+  margin-left: 200px;
+}
+.back{
+  text-decoration: none;
+  color: #000000;
+}
+.picture2{
+  position: absolute;
+  margin-top: 1630px;
+  margin-left: 820px;
+}
+.info{
+  width: 145%;
+}
+.text4{
+  position: absolute;
+  margin-left: 270px;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Times New Roman';
+  font-style: italic;
+  line-height: 134%;
+  margin-top: 2000px;
+}

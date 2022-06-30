@@ -1,0 +1,148 @@
+.home{
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+.rectangle1{
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 60px;
+}
+.rct1{
+  width: 130%;
+}
+.rectangle3{
+  position: absolute;
+  margin-top: 95px;
+  margin-left: 1100px;
+}
+.rct3{
+  width: 140%;
+}
+.rectangle2{
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 600px;
+}
+.rct2{
+  width: 130%;
+}
+.ava{
+  position: absolute;
+  margin-top: 160px;
+  margin-left: 110px;
+}
+.photo{
+  width: 140%;
+}
+.name{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 32px;
+  margin-top: 140px;
+  margin-left: 240px;
+}
+.number{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-left: 240px;
+  margin-top: 200px;
+}
+.telephone{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 28px;
+  margin-left: 110px;
+  margin-top: 280px;
+}
+.balance{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 28px;
+  margin-left: 110px;
+  margin-top: 360px;
+}
+.card0{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 28px;
+  margin-left: 110px;
+  margin-top: 440px;
+}
+.history{
+  position: absolute;
+  margin-left: 110px;
+  font-family: 'Roboto';
+  font-size: 32px;
+  margin-top: 630px;
+}
+.rul{
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 730px;
+}
+.mini1{
+  width: 130%;
+}
+.crd{
+  position: absolute;
+  margin-top: 730px;
+  margin-left: 550px;
+}
+.mini2{
+  width: 130%;
+}
+.namegame1{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-left: 190px;
+  margin-top: 705px;
+}
+.namegame2{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-top: 705px;
+  margin-left: 660px;
+}
+.rate{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-top: 750px;
+  margin-left: 190px;
+}
+.rate2{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-top: 750px;
+  margin-left: 660px;
+}
+.rating{
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 32px;
+  margin-top: 140px;
+  margin-left: 1160px;
+}
+.reting1{
+  position: absolute;
+  margin-top: 270px;
+  margin-left: 1160px;
+}
+.ret{
+  width: 130%;
+}
+.next{
+  position: absolute;
+  margin-top: 790px;
+  margin-left: 1514px;
+}
+.next2{
+  position: absolute;
+  margin-top: 790px;
+  margin-left: 1020px;
+}
